@@ -1,0 +1,802 @@
+*{
+	margin: 0%;
+	border: 1px solid red;
+	
+}
+.logo{
+	vertical-align: middle;
+}
+.navbar{
+	padding: 1.5%;
+	font-family: 'Poppins', sans-serif;
+}
+.navbar a:hover{
+	background-radius: 20%;
+	background-color: whitesmoke;
+}
+.navbar a{
+	text-decoration: none;
+	margin-left: 3%;
+	color: black;
+	font-size: 16px;
+	font-weight: bold;
+}
+#signin{
+	background-color: #00baf2;
+	color: white;
+	border-radius: 25px;
+	margin-left: 8%;
+	padding: 0.4% 0.8%;
+
+}
+#signin:hover{
+	background-color: darkblue;
+}
+.signin2{
+	width:2.5%;
+}
+.emoji{
+	background-color: whitesmoke;
+	text-align: center;
+	font-size: 18px;
+	padding: 1%;
+	font-weight: bold;
+}
+.sec2{
+	display: flex;
+	font-family: 'Poppins', sans-serif;
+	font-size: 25px;
+	justify-content: space-between;
+}
+.box{
+	padding-top: 25%;
+	padding-left:9%;
+	padding-bottom:7%;
+}
+.love{
+	font-size: 40px;
+	padding-left: 7%;
+}
+.and{
+	font-size: 15px;
+	padding-left: 9%;
+	padding-bottom: 6%;
+}
+.div1{
+	padding-right: 9%;
+}
+.phn{
+	padding-left: 5%;
+	padding-bottom: 7%;
+	padding-top: 9%;
+}
+.paytmdownload{
+	background-color: black;
+	border: 1px solid black;
+	color: white;
+	border-radius: 15px;
+	padding: 1% ;
+	width: 55%;
+	font-size: 15px;
+	margin-left: 9%;
+	padding-left: 4%;
+}
+.paytmdownload:hover{
+	background-color: white;
+	color: black;
+}
+.sec3{
+	border: 1px solid skyblue;
+	background-color:#00baf2;
+	color: white;
+	padding:2%;
+	vertical-align: middle;
+}
+.h1{
+	font-size: 210%;
+	padding:2%;
+	font-weight: bold;
+}
+.icons{
+	display: flex;
+	justify-content: space-around;
+	padding: 3%;
+	font-size: 120%;
+
+}
+.img1:hover{
+	background-color:#32acdd;
+	border: 1px solid skyblue;
+	padding: 1%;
+	border-radius: 25px;
+}
+.img2:hover{
+	background-color:#32acdd;
+	border: 1px solid skyblue;
+	padding: 1%;
+	border-radius: 25px;
+}
+.img3:hover{
+	background-color:#32acdd;
+	border: 1px solid skyblue;
+	padding: 1%;
+	border-radius: 25px;
+}
+.img4:hover{
+	background-color:#32acdd;
+	border: 1px solid skyblue;
+	padding: 1%;
+	border-radius: 25px;
+}
+.img5:hover{
+	background-color:#32acdd;
+	border: 1px solid skyblue;
+	padding: 1%;
+	margin: 1%;
+	border-radius: 25px;
+}
+.img6:hover{
+	background-color:#32acdd;
+	border: 1px solid skyblue;
+	padding: 1%;
+	border-radius: 25px;
+}
+.img7:hover{
+	background-color:#32acdd;
+	border: 1px solid skyblue;
+	padding: 1%;
+	border-radius: 25px;
+}
+.sec4{
+	border: 1px solid darkblue;
+	color: white;
+	background-color:#143c76;
+	padding: 4%;
+	vertical-align: middle;
+}
+.book{
+	font-size: 150%;
+	padding: 2%;
+	font-weight: bold;
+	text-align:left;
+}
+.icons2{
+	display:flex;
+	justify-content: space-evenly;
+	padding:3% ;
+	font-size: 120%;
+}
+.img8:hover{
+	background-color:#0f2f5c;
+	border: 1px solid #1a5b99;
+	padding: 1%;
+	border-radius: 25px;
+}
+.img9:hover{
+	background-color:#0f2f5c;
+	border: 1px solid  #1a5b99;
+	padding: 1%;
+	border-radius: 25px;
+}
+.img10:hover{
+	background-color:#0f2f5c;
+	border: 1px solid  #1a5b99;
+	padding: 1%;
+	border-radius: 25px;
+}
+.img11:hover{
+	background-color:#0f2f5c;
+	border: 1px solid  #1a5b99;
+	padding: 1%;
+	border-radius: 25px;
+}
+.img12:hover{
+	background-color:#0f2f5c;
+	border: 1px solid  #1a5b99;
+	padding: 1%;
+	border-radius: 25px;
+}
+.img13:hover{
+	background-color:#0f2f5c;
+	border: 1px solid  #1a5b99;
+	padding: 1%;
+	border-radius: 25px;
+}
+.img14:hover{
+	background-color:#0f2f5c;
+	border: 1px solid  #1a5b99 ;
+	padding: 1%;
+	border-radius: 35px;
+}
+.type{
+	background-color: whitesmoke;
+}
+.sec5{
+	background-color: white;
+	margin-left: 4%;
+	margin-right: 4%;
+}
+.instrument{
+	font-size: 45px;
+	padding-top: 10%;
+	padding-bottom: 2%;
+	margin-left: 4%;
+}
+.img15{
+	padding-left: 5%;
+}
+.paytmdownload2{
+	background-color: black;
+	border: 1px solid black;
+	color: white;
+	border-radius: 15px;
+	padding: 1% ;
+	width: 60%;
+    font-size: 20px;
+    margin: 8%;
+    text-align:left;
+}
+.paytmdownload2:hover{
+	background-color: white;
+	color: black;
+}
+.final{
+	display: flex;
+	padding: 3%;
+	justify-content: space-between;
+	padding-top: 8%;
+	border: 1px solid whitesmoke;
+	border-radius: 15px;
+	border-width: 0% 3% 0% 3%;
+	padding-left:5%;
+}
+.online{
+	padding-left: 5%;
+}
+.fast{
+	font-size: 35px;
+	padding-bottom: 4%;
+}
+.pay{
+	font-size: 230%;
+	padding: 3%;
+}
+.contact{
+	padding: 1%;
+}
+.img18{
+	text-align: right;
+	padding-left: 5%;
+}
+.secextra{
+	border: 1px solid whitesmoke;
+	border-radius: 15px;
+	background-color: white;
+	margin-left: 4%;
+	margin-right: 4%;
+}
+.sec6{
+	display: flex;
+}
+.cls{
+	padding-left: 10%;
+}
+ .extra{
+ 	padding-left: 10%;
+ 	padding-top: 5%;
+ }
+ .paytmdownload3{
+ 	background-color: black;
+	border: 1px solid black;
+	color: white;
+	border-radius: 25px;
+	padding: 1% ;
+	width: 50%;
+    font-size: 20px;
+    margin: 8%;
+    text-align:left;
+}
+.paytmdownload3:hover{
+	background-color: white;
+	color: black;
+}
+.want{
+	font-size: 210%;
+}
+.learn{
+ 	background-color: darkblue;
+	border: 1px solid darkblue;
+	color: white;
+	border-radius: 25px;
+	padding: 0.7% ;
+	width: 40%;
+    font-size: 20px;
+    margin: 8%;
+    text-align:left;
+    padding-left: 2%;
+}
+.sec7{
+	display: flex;
+}
+.learn:hover{
+	background-color:deepskyblue;
+	color:white;
+}
+.sec0{
+    border: 1px solid whitesmoke;
+	border-radius: 15px
+	margin : 4%;
+	background-color: white;
+	display: flex;
+	margin-left: 4%;
+	margin-right: 4%;
+}
+.img19{
+	padding-left: 7%;
+	padding-top: 30%;
+}
+.img20{
+	padding-left: 9%;
+	align-content: center;
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+.hydro{
+	padding-left: 7%;
+}
+.sec8{
+	display: flex;
+	justify-content: space-between;
+	margin: 5%;
+	background-color: white;
+	margin-bottom: 10%;
+}
+.sec81{
+	border: 1px solid whitesmoke;
+	border-radius: 15px;
+	border-width: 40%;
+	padding-left: 5%;
+	padding-right: 1%;
+	paddimg-bottom: 7%;
+	margin-right: 5%;
+	margin-bottom: 3%;
+}
+.sec82{
+	border: 1px solid whitesmoke;
+	border-radius: 15px;
+	margin-bottom: 5%;
+}
+ .img22{
+ 	padding-top: 7%;
+ 	padding-bottom: 5%;
+ }
+ .img23{
+ 	padding-top: 20%;
+ 	padding-left: 10%;
+ }
+.india{
+	font-size: 230%;
+	padding-left:10%;
+}
+.unlimited{
+	font-size: 230%;
+	padding-top: 3%;
+}
+.sbi{
+	padding-top: 5%;
+	font-size: 120%;
+	padding-left:10%;
+}
+.hdfc{
+	padding-top: 5%;
+	font-size: 120%;
+}
+.img24{
+ 	padding-top: 3%;
+ 	padding-bottom: 5%;
+ 	padding-left: 10%;
+ }
+ .img21{
+ 	padding-top: 20%;
+ 	padding-left: 10%;
+ }
+ .sec9{
+ 	display: flex;
+ 	justify-content: space-between;
+ }
+ .sec90{
+ 	border: 1px solid whitesmoke;
+ }
+ .service{
+ 	padding:4%;
+ 	padding-left: 5%;
+ }
+ .by{
+ 	font-size: 250%;
+ 	padding-bottom:%;
+ 	padding:4%;
+ }
+ .img25{
+ 	padding-top: 1%;
+ }
+ .img26{
+ 	padding-top: 7%;
+ 	padding-left: 6%;
+ 	margin-left: 7%;
+ 
+ }
+ .img27{
+ 	padding-top: 10%;
+ 	padding-bottom: 10%;
+ 	padding-left: 9%;
+ }
+.most{
+	font-size: 230%;
+	padding-top: 10%;
+	padding-bottom: 5%;
+}
+.sec10{
+	display: flex;
+	border: 1px solid whitesmoke;
+	background-color: whitesmoke;
+	border-radius: 25px;
+	background-image: url("paytm images/bk.png");
+	background-size: 100%;
+}
+.build{
+	font-size: 200%;
+}
+.on{
+	font-size: 100%;
+}
+.free{
+	padding-top: 8%;
+ 	padding-bottom: 5%;
+ 	padding-right: 13%;
+}
+.sec11{
+	display: flex;
+}
+.easy{
+	font-size: 230%;
+}
+.img29{
+	padding-bottom: 5%;
+}
+.made{
+	padding-left: 3%;
+	padding-right: 5%;
+}
+.buy{
+	font-size: 120%;
+}
+.sec12{
+	border: 1px solid whitesmoke;
+	border-radius: 25px;
+	background-color: whitesmoke;
+	display: flex;
+}
+.img30{
+	padding: 6%;
+}
+.amount{
+	padding: 9%;
+}
+.get{
+	font-size: 230%;
+}
+.sec13{
+	border: 1px solid whitesmoke;
+	background-color: whitesmoke;
+	border-radius: 25px;
+	display: flex;
+	padding-bottom: 5%;
+}
+.dv{
+	padding-top: 11%;
+	font-size: 180%;
+	padding-bottom: 2%;
+}
+.ease{
+	padding-left: 10%;
+	padding-top: 15%;
+}
+.img33{
+	padding-left: 15%;
+	padding-top: 10%;
+}
+.grow{
+	padding-bottom: 2%;
+}
+.accept{
+	font-size: 220%;
+	padding-bottom: 7%;
+}
+.sec14{
+	border: 1px solid whitesmoke;
+	background-color: whitesmoke;
+	border-radius: 25px;
+	display: flex;
+	padding-bottom: 5%;
+	margin-bottom: 13%;
+}
+	.shop{
+	padding-left: 10%;
+	padding-top: 15%;
+}
+.in{
+	font-size: 220%;
+	padding-bottom: 7%;
+}
+.million{
+	padding-bottom: 2%;
+}
+.sec15{
+	display: flex;
+	padding-left: 10%;
+	padding-bottom: 15%;
+}
+.img34{
+	padding-left: 15%;
+	padding-top: 10%;
+}
+.tool{
+	font-size: 135%;
+	padding-left: 8%;
+	padding-bottom: 6%;
+}
+.sec16{
+	display: flex;
+	padding: 3% 8% 3% 6%;
+	justify-content: space-between;
+	margin-bottom: 5%;
+}
+.sec16 div{
+	background-color: #00baf2;
+	margin: 0% 1%;
+	padding: 0.1%;
+	text-align: center;
+	color: white;
+	border-radius: 8%;
+}
+.act{
+	padding-bottom: 2%;
+}
+.sec p{
+	font-size: 5px;
+}
+.sec16 h4{
+	padding-top: 5%;
+}
+.ten:hover{
+	background-color:#16a1de;
+	border: 1px solid  #16a1de;
+	border-radius: 25px;
+}
+.eleven:hover{
+	background-color:#16a1de;
+	border: 1px solid  #16a1de;
+	border-radius: 25px;
+}
+.twelve:hover{
+	background-color:#16a1de;
+	border: 1px solid  #16a1de;
+	border-radius: 25px;
+}
+.thirteen:hover{
+	background-color:#16a1de;
+	border: 1px solid  #16a1de;
+	border-radius: 25px;
+}
+.fourteen:hover{
+	background-color:#16a1de;
+	border: 1px solid  #16a1de;
+	border-radius: 25px;
+}
+.sec17{
+	display: flex;
+	padding: 3% 8% 3% 6%;
+	justify-content: space-between;
+	margin-bottom: 5%;
+}
+.sec17 div{
+	background-color: #00baf2;
+	margin: 0% 1%;
+	padding: 0.1%;
+	text-align: center;
+	color: white;
+	border-radius: 8%;
+}
+.certain{
+	padding-left: 55%;
+}
+.sec17 p{
+	font-size: 62%;
+}
+.sec17 h1{
+	font-size: 95%;
+}
+
+
+
+
+
+@media(max-width: 340px){
+		.navbar a{
+			font-size: 3px;
+		
+		}
+		.emoji{
+			font-size: 7px;
+		}
+		.love{
+			font-size: 15px;
+		}
+		.and{
+			font-size: 6px;
+		}
+		.paytmdownload{
+			font-size: 5px;
+		}
+		.sec2{
+			padding-left: 3%;
+			padding-bottom: 3%;
+		}
+		.h1,.book{
+			font-size: 12px;
+		}
+		.icons{
+			font-size: 9px;
+		}
+		.img1,.img2,.img3,.img4,.img5,.img6,.img7,.img8,.img9,
+		.img10,.img11,.img12,.img13,.img14{
+			padding-top: 2%;
+			padding-left: 2%;
+		}
+		.icons2{
+			font-size: 9px;
+		}
+		.instrument{
+			font-size: 15px;
+			
+		}
+		.fast{
+			font-size: 7px;
+			padding-top: 2%;
+		}
+		.load{
+			font-size: 5px;
+		}
+		.paytmdownload2{
+			font-size: 2.5px;
+		}
+		.online{
+			padding-right:3%;
+			padding-left:10%;
+		}
+		.img16{
+			padding-left: 2%;
+			width: 40%;
+			margin-left: 25%;
+			margin-top: 10%;
+		}
+		.extra{
+			width: 50px;
+		}
+		.pay{
+			font-size: 40%;
+		}
+		.contact{
+			font-size: 35%;
+		}
+		.paytmdownload3{
+			font-size: 3px;
+		}
+		.img17{
+			padding-top: 12%;
+		}
+		.learn{
+			width: 25%;
+			font-size:4px;
+		}
+		.img18{
+			padding-right:6%;
+			padding-left: 7%;
+		}
+		.cls{
+			padding-top: 5%;
+		}
+		.unlimited{
+			font-size: 19px;
+		}
+		.img20{
+			margin-left: 15%;
+		}
+		.india{
+			font-size: 20px;
+			padding-right: 2%;
+		}
+		.hdfc,.sbi{
+			font-size: 8px;
+		}
+		.sec90{
+			font-size: 8px;
+
+		}
+		.learn{
+			width: 30%;
+		}
+		.most{
+			font-size: 15px;
+		}
+		.fun{
+			font-size: 6px;
+		}
+		.img27{
+			margin-top: 10%;
+		}
+		.build{
+			font-size: 12px;
+		}
+		.on{
+			font-size: 5px;
+		}
+		.learn{
+			width: 35%;
+		}
+		.easy,.get,.dv{
+			font-size: 25px;
+		}
+		.buy,.hec{
+			font-size: 6px;
+		}
+		.get{
+			font-size: 10px;
+		}
+		.dv{
+			font-size: 15px;
+		}
+		.accept,.in{
+			font-size: 20px;
+		}
+		.grow,.million{
+			font-size: 6px;
+		}
+		.learn{
+			width:38%;
+		}
+		.img34{
+			margin-top: 8%;
+		}
+		.in{
+			font-size: 15px;
+		}
+		.tool{
+			font-size: 10px;
+		}
+		.img36,.img37,.img38{
+			width: 40%;
+		}
+		.pet0,.pet1,.pet2,.pet3{
+			font-size: 40%;
+		}
+		.cat0,.cat1,.cat2,.cat3{
+			font-size: 20%;
+		}
+		.img35{
+			width: 50%;
+			padding-bottom: 16%;
+		}
+		.hide,.great{
+			font-size: 8%;
+		}
+		.ten,.eleven,.twelve,.thirteen,.fourteen{
+			font-size: 10%;
+			margin-top: 10%;
+		}
+		.hen,.pot{
+			font-size: 5%;
+		}
+		.certain{
+			font-size: 7px;
+		}
